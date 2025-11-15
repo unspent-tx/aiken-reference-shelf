@@ -1,0 +1,3 @@
+[submodule "languages/aiken/strike"]
+	path = languages/aiken/strike
+	url = git@github-second:strike-finance/perpetuals-smart-contracts.git
