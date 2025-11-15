@@ -1,3 +1,0 @@
-pub type PotRedeemer {
-  Withdraw
-}
